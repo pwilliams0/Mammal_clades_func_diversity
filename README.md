@@ -1,12 +1,6 @@
 # Biogeographic isolation leads to functionally divergent communities by restricting the spread of unique traits
 
-### Peter J. Williams, Jedediah F. Brodie, Chia Hsieh, Elise F. Zipkin
-
 ---------------------------------
-
-## Abstract
-
-[Final abstract will be added here]
 
 ## [Code](Code)
 
